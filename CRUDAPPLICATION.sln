@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDAPPLICATION", "CRUDAPPLICATION.csproj", "{45302EBD-A3DA-4D5F-A05C-74D57CE7D511}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoremvcconsumewithApi", "..\CoremvcconsumewithApi\CoremvcconsumewithApi.csproj", "{F81C370F-EA6A-4737-B6FC-3773F7EBB616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45302EBD-A3DA-4D5F-A05C-74D57CE7D511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45302EBD-A3DA-4D5F-A05C-74D57CE7D511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45302EBD-A3DA-4D5F-A05C-74D57CE7D511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45302EBD-A3DA-4D5F-A05C-74D57CE7D511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81C370F-EA6A-4737-B6FC-3773F7EBB616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81C370F-EA6A-4737-B6FC-3773F7EBB616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81C370F-EA6A-4737-B6FC-3773F7EBB616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81C370F-EA6A-4737-B6FC-3773F7EBB616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6DDAF47-1DE1-4E45-A451-3FA90C7DCD54}
+	EndGlobalSection
+EndGlobal
